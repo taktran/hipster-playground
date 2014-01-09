@@ -15,5 +15,8 @@
     "reactjs"
   ],
   "author": "Tu Tak Tran (contact@tutaktran.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-react": "~0.1.0"
+  }
 }
