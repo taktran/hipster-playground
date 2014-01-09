@@ -10,3 +10,12 @@ A code playground to play with hip new technologies (which may die tomorrow, but
 * [jsx](http://facebook.github.io/react/docs/jsx-in-depth.html)
 * [gulpjs](http://gulpjs.com/)
 
+## Development
+
+1. Install node modules
+
+    npm install
+
+2. Run `gulp`
+3. Open `public/index.html` in a browser
+
